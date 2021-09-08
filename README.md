@@ -16,4 +16,4 @@ Supported by NSF Award ICER-2026932
 
 ## Pangeo Tools for M2LInES Research
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/rabernat/pangeo-interactive-talks/a497a63/?urlpath=git-pull?repo=https://github.com/rabernat/pangeo-interactive-talks%26amp%3Bbranch=main%26amp%3Burlpath=tree/pangeo-interactive-talks/Pangeo_M2LInES.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/rabernat/pangeo-interactive-talks/0686801/?urlpath=git-pull?repo=https://github.com/rabernat/pangeo-interactive-talks%26amp%3Bbranch=main%26amp%3Burlpath=tree/pangeo-interactive-talks/Pangeo_M2LInES.ipynb)
